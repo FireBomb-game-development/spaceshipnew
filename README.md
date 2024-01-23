@@ -1,3 +1,8 @@
+##itch.io
+https://ohadtaizi.itch.io/spaceship
+
+
+
 # Unity week 2: Formal elements
 
 A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
